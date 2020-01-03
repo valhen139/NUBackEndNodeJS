@@ -1,0 +1,14 @@
+{
+  "name": "examenfinalbuscador",
+  "version": "1.0.0",
+  "description": "Examen final Backend NU",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "author": "ODV",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
